@@ -1,0 +1,48 @@
+MIT License
+
+Copyright (c) 2024 PyMmdrza
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+⚠️ IMPORTANT LEGAL NOTICE ⚠️
+
+This software is intended for EDUCATIONAL and LEGITIMATE purposes ONLY.
+
+LEGITIMATE USE CASES:
+- Recovering YOUR OWN lost cryptocurrency wallet passphrases
+- Security research on brain wallet vulnerabilities
+- Educational purposes to understand cryptographic key derivation
+
+ILLEGAL USE CASES (STRICTLY PROHIBITED):
+- Attempting to access cryptocurrency wallets you do not own
+- Stealing funds from other people's wallets
+- Any unauthorized access to cryptocurrency addresses
+
+WARNING:
+Using this software to access wallets without explicit ownership authorization 
+is ILLEGAL and constitutes THEFT under criminal law in most jurisdictions. 
+Violators may face severe legal consequences including imprisonment and fines.
+
+The authors and contributors of this software are NOT responsible for any 
+misuse or illegal activities conducted using this tool. Users are solely 
+responsible for ensuring their use complies with all applicable laws.
+
+By using this software, you acknowledge that:
+1. You will only use it on wallets YOU OWN
+2. You understand the legal implications of unauthorized access
+3. You accept full responsibility for your actions

@@ -1,0 +1,17 @@
+# AttackAIO Crypto - Dependencies
+# WARNING: This tool is for educational purposes and recovering YOUR OWN lost passphrases ONLY
+
+# Core cryptographic libraries
+hdwallet>=2.2.0
+ecdsa>=0.18.0
+bit>=0.8.0
+
+# Network requests
+requests>=2.31.0
+requests-html>=0.10.0
+
+# Terminal UI
+rich>=13.0.0
+colorama>=0.4.6
+
+# Note: hashlib, base64, and threading are Python built-in modules (no installation needed)
